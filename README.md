@@ -13,4 +13,4 @@ Built with Claude Sonnet 4, Gemini 2.5 Flash, and ChatGPT-4o.
 3. Display all the syntactic categories in Stanza, along with their corresponding abbreviations and colors used in CTG.
 
 ### Code
-- The full source code can be found in the repo, named CTG.ipynb
+- The full source code can be found in CTG.ipynb
